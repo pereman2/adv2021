@@ -4,4 +4,5 @@ ADV 2021
 * **DAY1** C
 * **DAY2** Assembly
 * **DAY3** Awk
-* **DAY2** Python
+* **DAY4** Python
+* **DAY5** Go

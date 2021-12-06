@@ -6,3 +6,4 @@ ADV 2021
 * **DAY3** Awk
 * **DAY4** Python
 * **DAY5** Go
+* **DAY6** Haskell

@@ -7,3 +7,4 @@ ADV 2021
 * **DAY4** Python
 * **DAY5** Go
 * **DAY6** Haskell
+* **DAY7** R
